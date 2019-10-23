@@ -9,3 +9,5 @@ print(a.replace(",","="))
 #split(字符/字符串,分割次数)
 #不填分割次数，默认分割次数为(字符/字符串)数
 
+#Javascript:alert(document.cookie)
+#查看网站颁发的所有Cookie内容
