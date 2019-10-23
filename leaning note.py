@@ -10,4 +10,4 @@ print(a.replace(",","="))
 #不填分割次数，默认分割次数为(字符/字符串)数
 
 #Javascript:alert(document.cookie)
-#查看网站颁发的所有Cookie内容
+#直接在浏览器地址栏输入，可查看网站颁发的所有Cookie内容
